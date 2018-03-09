@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Nahid\\Documents\\MachineLearningProjects\\#NLP_IMDB_Review\\TFLearn_Imdb_review\\models\\tflearn_imdb_review.model"
+all_model_checkpoint_paths: "C:\\Users\\Nahid\\Documents\\MachineLearningProjects\\#NLP_IMDB_Review\\TFLearn_Imdb_review\\models\\tflearn_imdb_review.model"
