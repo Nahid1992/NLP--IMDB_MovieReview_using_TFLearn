@@ -1,7 +1,6 @@
 # Natural Language Processing
 ### Sentiment Analysis: IMDB Movie Review
-In this project, a sentiment analysis was done on IMDB movie review whether the review is good or bad. 
-
+In this project, a sentiment analysis was done on IMDB movie review whether the review is good or bad. This was done on only 100 important words on each review. 
 
 ### Database
 The IMDB Review database was downloaded using TFLearn's built-in function.
